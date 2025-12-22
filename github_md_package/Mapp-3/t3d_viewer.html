@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<title>3D Viewer – RP9</title>
+
+<style>
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #0f1115;
+  color: #e6e6e6;
+  height: 100%;
+}
+
+#container {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+</style>
+</head>
+
+<body>
+
+<div id="container">Laddar 3D-visualisering…</div>
+
+<script>
+/*
+  ÄNDRA ENDAST DENNA RAD VID BEHOV
+*/
+const RAW_HTML_URL =
+  "https://raw.githubusercontent.com/AntonWallin999/g/main/github_md_package/Mapp-3/fractal_millennium_cube.html";
+
+/*
+  Ladda HTML-filen som text och injicera den
+  Detta kringgår iframe-blockering helt
+*/
+fetch(RAW_HTML_URL)
+  .then(r => {
+    if (!r.ok) throw new Error("Kunde inte ladda 3D-HTML");
+    return r.text();
+  })
+  .then(html => {
+    document.getElementById("container").innerHTML = html;
+  })
+  .catch(err => {
+    document.getElementById("container").innerHTML =
+      "<pre style='color:#ff6b6b'>" + err + "</pre>";
+  });
+</script>
+
+</body>
+</html>
