@@ -48,6 +48,15 @@
 ### _Den fraktala orsaksmodellen bakom matematik, geometri, språk, energi och samtliga Millenniumproblem_
 
 ---
+<iframe
+  src="https://raw.githubusercontent.com/AntonWallin999/g/main/github_md_package/Mapp-3/t3d_viewer.html"
+  width="100%"
+  height="800"
+  style="border:none;">
+</iframe>
+
+
+
 
 
 > Detta repository kartlägger **den primära relationella orsaken** bakom geometri, tal och struktur.  
@@ -70,6 +79,9 @@
 > är integrerade i en och samma slutna struktur.  
 > All vidare komplexitet är manifestation — inte grund.
 
+[Öppna 3D-visualisering](https://raw.githubusercontent.com/AntonWallin999/g/main/github_md_package/Mapp-3/t3d_viewer.html)
+
+https://raw.githubusercontent.com/AntonWallin999/g/main/github_md_package/Mapp-3/t3d_viewer.html
 
 
 ---
