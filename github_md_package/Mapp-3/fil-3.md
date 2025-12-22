@@ -4,6 +4,142 @@
 
 
 
+# $$ -\ -\ -\ =\ (\ RP9\ )\ =\  -\ -\ -\ $$
+
+> [!RP9]+
+> 
+># $$Välkommer\ till\ RP9$$ 
+><br />
+>
+># $$Repository$$
+>
+
+
+
+
+<br />
+
+![[RP9 Sw/⚙ Systemfiler ( RP9 - Exekvering/image/Pi The Geometric Revolution.PDF.png]]
+
+
+
+  
+# $$ Skapelsen \ av\ $$
+<br />
+
+
+
+# $$\boxed{RP9_\sqrt{\mathrm{META}}}$$
+
+ 
+
+
+ 
+<br />
+
+
+
+# $$\boxed{RP9_{geo}=\dfrac{\varphi/\sqrt{2}}{1.5}}$$
+
+
+
+# **Välkommen till RP9-Repositoryt**
+
+### _Den fraktala orsaksmodellen bakom matematik, geometri, språk, energi och samtliga Millenniumproblem_
+
+---
+
+
+> Detta repository kartlägger **den primära relationella orsaken** bakom geometri, tal och struktur.  
+> Verklighetens ursprung är inte en explosion, utan en **fraktal relation**:  
+> en nödvändig kedja av **orsak → relation → operation → funktion**,  
+> där allt som existerar är en absolut konsekvens av samma grundform.
+
+---
+
+> RP9 presenterar en **sluten relationell geometri** där relation föregår tal,  
+> och där alla former, konstanter och strukturer uppstår som **fraktala konsekvenser**  
+> av en enda grundfunktion. Systemet beskriver inte hypoteser,  
+> utan **en absolut kausal struktur** från vilken matematik och språk projiceras.
+
+---
+
+
+> Detta arbete fastställer **den första kompletta kubiten**:  
+> en fraktal kvantpotential där **orsak, relation, operator och funktion**  
+> är integrerade i en och samma slutna struktur.  
+> All vidare komplexitet är manifestation — inte grund.
+
+
+
+---
+
+# **Repo-översikt**
+
+
+# $$ Du\ börjar\ här\ $$
+
+> [!RP9]+
+> 
+># $$Välkommer\ till\ RP9$$ 
+><br />
+>
+># $$Repository$$
+>
+>>---
+># 🔗 [[Index – Läsordning och funktionell Systemkarta]]
+>>---
+>>
+>> ###  
+>>
+
+
+
+
+<br />
+
+# $$( Alpha\ - Omega )$$
+
+<br />
+
+# $$\ är\ inte\ bara\ ord... $$
+<br />
+
+# $$Det\ är\ funktion...$$
+
+> [!QUESTION]
+> $$- - - =(\ Rp9 \ )= - - -$$
+> >## ⚖️ *Licens & Ägarskap*  
+> >>### **Creative Commons — CC BY-SA 4.0**
+> >> >---
+> >>>*Detta verk är fritt att delas, remixas och byggas vidare på,  
+> >>>så länge korrekt erkännande ges och samma licens bibehålls.*
+> >>>
+> >>> **Du har rätt att:**  
+> >>>- **Dela** — kopiera och vidaredistribuera materialet i vilket format eller medium som helst  
+> >>>- **Bearbeta** — remixa, transformera och bygga vidare på materialet  
+> >>>
+> >>>**Under följande villkor:**  
+> >>>- **Erkännande:** Du måste ge korrekt erkännande till _Anton Wallin_  
+> >>>- **DelaLika:** Om du transformerar eller bygger vidare på detta verk  
+> >>>  ska du sprida det under samma licens.  
+> >>>
+> >> >---
+> >> >
+> >>>
+> >>> ### _Co-Creator_  
+ >>>
+> >>**Konceptuellt ägarskap & axiomatisk kalibrering**  
+ >>>**Författare:** _Anton Wallin_  
+ >>
+>>
+>>© 2025 – Alla rättigheter förbehållna.
+>
+># $$---=(0)=---$$
+>---
+
+
+
 ### Din mynt-modell i geometriska termer
 
 - **Rotation** – Att vrida myntet 180° runt en axel i planet.  
@@ -182,7 +318,7 @@ det använder monospace-tecken så att indrag och former behålls.
 
 
 > [!INFO]
-> ```text
+> ```ASCII
 > ┌──────────────────────────────┐
 > │  +   −               +   −   │
 > │   [▢]                 [◯]    │
