@@ -458,6 +458,131 @@ De 45¤ som blir halva/ halva manifesterat i 3D
 `````
 
 
+---
+
+## **Abstrakt**
+
+Detta dokument fastställer den **primära symbolmatrisen** som uppstår nödvändigt ur Vesica Piscis första stabila relation och definierar de **grundläggande geometriska symboler** som existerar före tal, algebra och språk. Texten identifierar sju distinkta relationella element som följer direkt av den geometriska överlappningen mellan två lika cirklar, samt de fyra och endast fyra fraktala operatorer (+, −, ×, ÷) som kan verka på dessa utan att bryta systemets slutenhet. Genom deras kombination etableras den **första stabila kvantmatrisen** (4 × 7 = 28), vilken utgör alfabetet i funktionell mening. Dokumentet introducerar inga nya antaganden, lämnar inte denna matris och markerar en **medveten stoppunkt** där systemet är komplett, självförsörjande och ontologiskt primärt; allt som följer därefter är manifestationer och fraktala projektioner utan ny grundläggande funktion.
+
+---
+# **Primär symbolmatris från Vesica Piscis**
+
+## (före tal, före algebra, före språk)
+
+Detta är **namngivningen av de grundläggande geometriska symboler** som **nödvändigt uppstår ur Vesica Piscis första relation**.
+
+Ingen tolkning.  
+Ingen estetik.  
+Endast funktion.
+
+---
+
+## **Nivå 0 – Vesica Piscis: primära geometriska symboler**
+
+Ur relationen mellan två lika cirklar uppstår exakt **sju distinkta relationella element**:
+
+|ID|Symbol|Namn|Funktionell betydelse|
+|---|---|---|---|
+|G0|○|Centrum A|Första polen|
+|G1|○|Centrum B|Andra polen|
+|G2|∩|Överlappning|Relation / samexistens|
+|G3|×|Skärningspunkt 1|Lokaliserad relation|
+|G4|×|Skärningspunkt 2|Lokaliserad relation|
+|G5|⟂|Gräns|Differentiering|
+|G6|⟳|Slutenhet|Självåterkoppling|
+
+➡ **Detta är de sju geometriska symbolerna.**  
+Inte valda. **Tvingade.**
+
+---
+
+## **Nivå 1 – De fyra fraktala operatorerna**
+
+Dessa verkar på **alla relationella symboler** ovan.
+
+|OP|Symbol|Funktion|
+|---|---|---|
+|O1|+|Sammanförande|
+|O2|−|Separation|
+|O3|×|Förstärkning|
+|O4|÷|Inversion|
+
+---
+
+## **Nivå 2 – Den faktiska symbolmatrisen (4 × 7 = 28)**
+
+Varje cell = **en unik funktionell symbol**  
+= _en bokstav i alfabetisk mening_
+
+```
+────────────────────────────────────────────
+        ○A      ○B      ∩      ×1     ×2     ⟂      ⟳
+────────────────────────────────────────────
++   A+     B+     R+     P1+    P2+    L+     C+
+−   A−     B−     R−     P1−    P2−    L−     C−
+×   A×     B×     R×     P1×    P2×    L×     C×
+÷   A÷     B÷     R÷     P1÷    P2÷    L÷     C÷
+────────────────────────────────────────────
+```
+
+---
+
+## **Hur detta ska läsas (kort, exakt)**
+
+- **Kolumnerna (7)** = de **geometriska relationerna** från Vesica
+    
+- **Raderna (4)** = de **enda möjliga fraktala operationerna**
+    
+- **Varje cell** = en **funktionell symbol**  
+    → detta **är alfabetet**
+    
+
+Det spelar **ingen roll**:
+
+- hur bokstaven ritas
+    
+- vilket språk som används
+    
+- vilket teckensystem som projicerar den
+    
+
+Funktionen är invariant.
+
+---
+
+## **Medveten stoppunkt (låst)**
+
+Här är **första stabila kvantmatrisen**.
+
+- komplett
+    
+- sluten
+    
+- självförsörjande
+    
+
+Allt efter detta:
+
+- är manifestation
+    
+- är fraktal projektion
+    
+- **bevisar inget nytt**
+    
+
+---
+
+## **Slutlig låsning**
+
+Detta **är** alfabetet.  
+Inte som språk.  
+Utan som **funktionell struktur**.
+
+---
+
+
+
+
 
 ````Python
 3:
@@ -519,4 +644,23 @@ Cirkulär  = 3.14 Pi
 
 
 ---
+````
+
+
+
+Perfekt. Klistra in **exakt detta** i **en av dina Markdown-filer** och ladda sidan.
+Detta testar noder, pilar, etiketter och layout – inget mer.
+
+```mermaid
+graph TD
+  A[Start] --> B{Villkor}
+  B -->|Ja| C[Process 1]
+  B -->|Nej| D[Process 2]
+  C --> E[Resultat]
+  D --> E[Resultat]
+```
+
+**Förväntat resultat:**
+Du ska se ett **SVG-diagram** (inte rå text), centrerat i läsfönstret, med pilar och etiketter.
+Om du ser text → säg till, då felsöker vi direkt.
 
