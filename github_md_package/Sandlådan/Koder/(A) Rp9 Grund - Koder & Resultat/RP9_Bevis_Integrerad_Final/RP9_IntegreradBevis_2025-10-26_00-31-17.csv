@@ -1,0 +1,9 @@
+Typ,Frekvens (Hz),ΔP (%),C_diff (%),ηP (%),Kommentar
+Simulering,420,-0.005,-2.504,,
+Simulering,680,-0.000,0.276,,
+Simulering,1100,-0.000,0.237,,
+Mätning,420,,,100.00,Avvikelse
+Mätning,630,,,1190.25,Avvikelse
+Mätning,945,,,1697.44,Avvikelse
+
+Korrelation,,,,40.41,Svag korrelation
