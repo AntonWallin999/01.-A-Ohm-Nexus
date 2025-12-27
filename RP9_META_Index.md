@@ -1,4 +1,4 @@
-# 📚 RP9_META_Index – Arkiv
+# 📚 Index (B-gitt) – Arkiv
 
 Detta är huvudindex för hela Markdown-arkivet.
 
